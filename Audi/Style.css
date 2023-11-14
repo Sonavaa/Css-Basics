@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circles div{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 65px;
+    margin: 200px 0 0 -50px;
+}
+#circle1{
+    border: 5px solid red;
+    margin: 200px 0 0 450px  ;
+}
+#circle2{
+    border: 5px solid yellow;
+}
+#circle3{
+    border: 5px solid blue;
+}
+#circle4{
+    border: 5px solid black;
+}
+#circle5{
+    border: 5px solid green;
+}
